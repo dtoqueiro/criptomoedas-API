@@ -20,4 +20,4 @@ Para utilizar a API durante o desenvolvimento utilizou-se a extensão Moesif COR
 
 ## Digital Innovation One
 
-Projeto desenvolvido durante o Bootcamp da Digital Innovation One
+Projeto desenvolvido durante o Bootcamp da Digital Innovation One.
